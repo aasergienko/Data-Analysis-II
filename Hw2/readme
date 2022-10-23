@@ -1,1 +1,9 @@
-Here is the 2nd HW
+**Here is the 2nd HW**
+
+I have done several things:
+
+1. I've created several dataframes (and then a database) from WALS CLDF dataset 
+(https://github.com/cldf-datasets/wals)
+2. I've manipulated these datasets a bit, creating several plots.
+All the plots describe the geographic distribution of languages with case syncretism
+3. Finally, I added a column of automatically glossed Turkish text into a dataset
